@@ -7,7 +7,7 @@
 
 --second script aimbot
 
---loadstring(game:HttpGet("https://raw.githubusercontent.comAveriias/Universal-SilentAim/main/main.lua"))()
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/Averiias/Universal-SilentAim/main/main.lua"))()
  
 
 --server hoop 
