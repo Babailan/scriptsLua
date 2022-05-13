@@ -13,5 +13,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Averiias/Universal-Si
 --server hoop 
 
 local module = loadstring(game:HttpGet"https://raw.githubusercontent.com/LeoKholYt/roblox/main/lk_serverhop.lua")()
-
--- module:Teleport(game.PlaceId)
+module:Teleport(game.PlaceId)
