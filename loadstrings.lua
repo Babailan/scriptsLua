@@ -4,7 +4,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hajibeza/RIPPER-HUB/m
 
 -- other
 loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/ATR",true))()
-
+-- other 
+loadstring(game:HttpGet("https://github.com/HazeNx/shimbo/raw/main/euphoria.lua"))()
 --second script aimbot
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Averiias/Universal-SilentAim/main/main.lua"))()
