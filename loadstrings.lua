@@ -9,6 +9,9 @@ loadstring(game:HttpGet("https://github.com/HazeNx/shimbo/raw/main/euphoria.lua"
 --second script aimbot
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Averiias/Universal-SilentAim/main/main.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Babailan/scriptsLua/master/universalAimBot.lua"))()
+
  
 
 --server hoop 
